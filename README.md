@@ -1,1 +1,1 @@
-nothing to see here
+dotfiles for my own hyprland setup
